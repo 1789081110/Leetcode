@@ -7,4 +7,7 @@ class Solution:
                     return result
             result+=  strs[0][i]
         return result
+    ----------------------------------------------------
+    Input: strs = ["flower","flow","flight"]
+Output: "fl"
       
