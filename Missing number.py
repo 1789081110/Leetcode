@@ -17,6 +17,7 @@ class Solution:
                 i+=1
         return i        
 ----------------------------   -------------------------
+
 #output
 #Input: nums = [3,0,1]
 #Output: 2
