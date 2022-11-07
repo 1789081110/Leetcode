@@ -9,3 +9,6 @@ class Solution:
             mapts[c2]=c1
         return True    
         
+----------------  ----------------
+Input: s = "egg", t = "add"
+Output: true
