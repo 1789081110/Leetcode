@@ -9,6 +9,7 @@ class Solution:
 #Incrementing by one gives 9 + 1 = 10.
 #Thus, the result should be [1,0].
 
+
 #Input: digits = [1,2,3]
 #Output: [1,2,4]
 #Explanation: The array represents the integer 123.
