@@ -11,5 +11,7 @@ class Solution:
         if hash_:
             max_+=1
         return max_
-                
+      ---------------------           -----------------
+#Input: s = "abccccdd"
+#Output:7
         
